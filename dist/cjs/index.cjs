@@ -16,8 +16,8 @@ var constants = {
   APIS: {
     DEFAULT: {
       URL: {
-        PRODUCTION: 'https://cobrancas.api.efipay.com.br/v1',
-        SANDBOX: 'https://cobrancas-h.api.efipay.com.br/v1'
+        PRODUCTION: 'https://cobrancas.api.efipay.com.br/v2',
+        SANDBOX: 'https://cobrancas-h.api.efipay.com.br/v2'
       },
       ENDPOINTS: {
         authorize: {
